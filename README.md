@@ -133,7 +133,8 @@ The robots are equipped to recognize traffic lights and control their movement a
 </summary>
 
   
-![image](https://github.com/user-attachments/assets/811efa4b-ca42-4599-9dc5-85fa6055db60)
+![image](https://github.com/user-attachments/assets/15571a60-b8f4-4936-ac4f-ab1213c5ecbc)
+
 <blockquote>
 We use optimized PID control gain values obtained through a manual tuning process for both the leading and following robots. This table shows the optimized control gain values for the leading and following robots. These values are adjusted based on the characteristics of each robot and the driving environment to ensure stable driving.
 </blockquote>
